@@ -2,4 +2,4 @@
 
 cv project
 
-[CV](https://sashagulnov.github.io/rsschool-cv/cv)
+[CV](https://sashagulnov.github.io/rsschool-cv)
