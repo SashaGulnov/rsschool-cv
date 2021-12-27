@@ -2,4 +2,4 @@
 
 cv project
 
-[CV](./cv.md)
+[CV](https://sashagulnov.github.io/rsschool-cv/cv)
