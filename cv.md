@@ -20,3 +20,13 @@
     function solution(str, ending){
     return str.endsWith(ending)
       }
+
+### 6. My projects:
+
+- [CLI tool that encodes and decodes a text by 3 substitution ciphers](https://github.com/SashaGulnov/Ciphering-CLI-Tool/tree/ciphering-cli-tool)
+- [Simple CRUD API](https://github.com/SashaGulnov/simple-CRUD-API)
+- [REST service](https://github.com/SashaGulnov/nodejs2021Q4-service/tree/Task4_dev)
+
+### 7. 2015—2020 Moscow State University of Instrument Engineering and Computer Science, Master’s Degree in Computer science
+
+### 8. English level - B2
